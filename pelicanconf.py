@@ -37,3 +37,15 @@ DEFAULT_PAGINATION = 10
 OUTPUT_PATH = "./quilombist.github.io"
 
 TYPOGRIFY = True
+
+# Theme
+# THEME = "./themes/SoMa"
+THEME = "./themes/SoMa2"
+THEME = "./themes/Cahier"
+# THEME = "./themes/Just-Read"
+
+# Urls
+ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
