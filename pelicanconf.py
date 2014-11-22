@@ -39,10 +39,11 @@ OUTPUT_PATH = "./quilombist.github.io"
 TYPOGRIFY = True
 
 # Theme
+# THEME = "./themes/pelican-bootstrap3"
 # THEME = "./themes/SoMa"
-THEME = "./themes/SoMa2"
-THEME = "./themes/Cahier"
-# THEME = "./themes/Just-Read"
+# THEME = "./themes/SoMa2"
+# THEME = "./themes/Cahier"
+THEME = "./themes/Just-Read"
 
 # Urls
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
