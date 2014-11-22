@@ -1,6 +1,6 @@
 * Quilombist
 
-Code for quilombist blog. http://quilombist.github.io/
+Live blog. http://quilombist.github.io/
 
 ** License MIT
 
