@@ -1,14 +1,14 @@
 ############################################
- Lettre ouverte de Abdias Nascimento à Lula
+ Lettre ouverte de Abdias Nascimento au Lula
 ############################################
 
-:title: Lettre ouverte de Abdias Nascimento à Lula
+:title: Lettre ouverte de Abdias Nascimento au président Lula
 :date: 2014-11-24 13:00
 :tags: histoire, bresil, abdias, president, lettre
 :category: politics
 :slug: lettre-ouverte-abdias-a-lula
 :authors: Marcwebbie
-:summary: Texte de la lettre ouverte de Abdias Nascimento à Lula écrite en 2007
+:summary: Texte de la lettre ouverte de Abdias Nascimento au président Lula écrite en 2007
 
 .. |Abdias| image:: {filename}/images/abdias.jpg
 
