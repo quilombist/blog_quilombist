@@ -1,6 +1,6 @@
-############################################
- Lettre ouverte de Abdias Nascimento au Lula
-############################################
+##################################################
+ Lettre [#]_ ouverte de Abdias Nascimento au Lula
+##################################################
 
 :title: Lettre ouverte de Abdias Nascimento au président Lula
 :date: 2014-11-24 13:00
@@ -11,6 +11,7 @@
 :summary: Texte de la lettre ouverte de Abdias Nascimento au président Lula écrite en 2007
 
 .. |Abdias| image:: {filename}/images/abdias.jpg
+
 
 .. _10.639/03: https://hal.archives-ouvertes.fr/file/index/docid/203669/filename/Article_Ordinaire-_sept._2006.pdf
 
@@ -32,7 +33,7 @@ Comme vous, monsieur le Président, des secteurs puissants, détenteurs des moye
 
 Il y a des décennies que les intellectuels noirs affirment que la race n'a rien à voir avec la biologie ou la génétique, mais que, en tant que catégorie socialement construite, il s'agit d'une dure réalité discriminatoire basée sur les caractéristiques d'apparence.
 
-Monsieur le Président, vos récentes visites en Afrique ainsi que d'autres initiatives comme la promulgation de la loi `10.639/03`_ et l'application de la politique des quotas réparatoires dans les universités a permis l'avènement d'un climat qui permet de débattre sur des questions sérieuses qui sont occultées ou niées par les élites retranchées dans le monde académique et dans l'univers médiatique. À présent, dans une période si encourageante, ils fomentent, avec une agressivité grandissante, cette campagne de déstabilisation de la société, dans laquelle la désinformation délibérée rivalise avec la malveillance raciste, qui vise à intimider tout un peuple et à tromper toute une nation.
+Monsieur le Président, vos récentes visites en Afrique ainsi que d'autres initiatives comme la promulgation de la loi 10.639/03 [#]_ et l'application de la politique des quotas réparatoires dans les universités a permis l'avènement d'un climat qui permet de débattre sur des questions sérieuses qui sont occultées ou niées par les élites retranchées dans le monde académique et dans l'univers médiatique. À présent, dans une période si encourageante, ils fomentent, avec une agressivité grandissante, cette campagne de déstabilisation de la société, dans laquelle la désinformation délibérée rivalise avec la malveillance raciste, qui vise à intimider tout un peuple et à tromper toute une nation.
 
 Nous sommes témoins que, à la chambre des représentants du peuple, après avoir reçu en grandes pompes les porte-paroles de cette campagne, on a demandé de “la fermer” aux noirs qui ont usé de leur droit démocratique légitime de présenter leurs demandes.
 
@@ -59,8 +60,10 @@ Enfin, je souhaite dire que j'ai la foi aux forces qui veulent transformer mon p
 
 Veuillez, monsieur le Président, accepter nos salutations quilombistes, car le quilombisme est une proposition pour la Nation. Zumbi vit en nous, hommes et femmes de la résistance antiraciste et de la construction d'un Brésil juste et démocratique. Axé!
 
-By Abdias Nascimento
+-- Écrit par Abdias Nascimento en 2007
+
 
 ----------------------
 
-[1] `Lettre original en Portugais <http://www.koinonia.org.br/oq/noticias-detalhes.asp?cod=7859>`_
+.. [#] `Lettre original (en Portugais) <http://www.koinonia.org.br/oq/noticias-detalhes.asp?cod=7859>`_
+.. [#] `<https://hal.archives-ouvertes.fr/file/index/docid/203669/filename/Article_Ordinaire-_sept._2006.pdf>`_
