@@ -63,4 +63,4 @@ Abdias Nascimento
 
 ----------------------
 
-[1] `<http://guyzoducamer.afrikblog.com/archives/2007/11/23/6997534.html>`
+[1] `<http://guyzoducamer.afrikblog.com/archives/2007/11/23/6997534.html>`_
