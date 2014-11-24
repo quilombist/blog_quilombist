@@ -22,4 +22,4 @@ OUTPUT_RETENTION = (".git", ".gitignore", "README.org")
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = "quilombist"
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "UA-57075705-1"
