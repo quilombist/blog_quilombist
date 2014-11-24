@@ -18,21 +18,21 @@ Monsieur le Président de la République, Cher Lula,
 
 Recevez mes salutations quilombistes en cette Journée Nationale de la Conscience Noire.
 
-J'ai reçu des mains de Votre Excellence des distinctions qui me rendent très fier, et que je reçois au nom du peuple afrodescendant de ce Pays, car j'estime que les mérites lui reviennent. Pour cette raison, je ne pourrais pas m’empêcher de m'adresser en ce jour au peuple noir, à tout le peuple brésilien, et à nos gouvernants, en la personne de Votre excellence, car le bonheur du noir, comme dit le poète, est un bonheur guerrier.
+J'ai reçu des vos mains, monsieur le président, des distinctions qui me rendent très fier, et que je reçois au nom du peuple afrodescendant de ce Pays, car j'estime que les mérites lui reviennent. Pour cette raison, je ne pourrais pas m’empêcher de m'adresser en ce jour au peuple noir, à tout le peuple brésilien, et à nos gouvernants, en la personne de Votre excellence, car le bonheur du noir, comme dit le poète, est un bonheur guerrier.
 
 Alors que l'octroi de la Grande Croix de l'Ordre du Mérite culturel et mon inclusion au plus haut niveau de l'Ordre du Rio Branco me remplissent de joie, j’observe que les inégalités raciales au Brésil restent aigues et profondes.
 
-Je reçois des nouvelles au quotidien relatives à des recherches quantitatives qui confirment ce fait. Aujourd’hui seulement par exemple , nous avons appris de la part de chercheurs de l’UFRJ que les principales causes de mortalité des hommes noirs sont violentes, comme les homicides, tandis que les blancs meurent plus pour cause de maladies.
+Je reçois des nouvelles au quotidien relatives à des recherches quantitatives qui confirment ce fait. Aujourd’hui seulement par exemple, nous avons appris de la part de chercheurs de l’UFRJ que les principales causes de mortalité des hommes noirs sont des actions violentes, comme les homicides, tandis que les blancs meurent d'avantage de maladie.
 
 Toujours aujourd'hui, on a également su que la Fondation SEADE a déterminé que les blancs occupent quatre fois plus de postes de direction que les noirs.
 
-Des secteurs puissants, détenteurs des moyens de communication de masse au pays, mènent actuellement une campagne visant à discréditer ces statistiques et à vilipender ceux-là, comme Votre Excellence qui pensent que des politiques publiques de lutte contre ces inégalités sont nécessaires. Ils nous accusent encore de racisme, en utilisant l'argument fallacieux selon lequel le critère de classification raciale, et non celui de la réalité sociale, cause des divisions dangereuses dans notre société.
+Comme vous, monsieur le président, des secteurs puissants, détenteurs des moyens de communication de masse au pays, mènent actuellement une campagne visant à discréditer ces statistiques et à vilipender ceux-là, qui pensent que des politiques publiques de lutte contre ces inégalités sont nécessaires. Ils nous accusent encore de racisme, en utilisant l'argument fallacieux selon lequel le critère de classification raciale, et non celui de la réalité sociale, cause des divisions dangereuses dans notre société.
 
 Il y a des décennies que les intellectuels noirs affirment que la race n'a rien à voir avec la biologie ou la génétique, mais que, en tant que catégorie socialement construite, il s'agit d'une dure réalité discriminatoire basée sur les caractéristiques d'apparence.
 
 Monsieur le Président, vos récentes visites en Afrique ainsi que d'autres initiatives comme la promulgation de la loi 10.639/03 et l'application de la politique des quotas réparatoires dans les universités a  permis l'avènement d'un climat qui permet de débattre sur des questions sérieuses qui sont occultées ou niées par les élites retranchées dans le monde académique et dans l'univers médiatique. À présent, dans une période si encourageante, ils fomentent, avec une agressivité grandissante, cette campagne de déstabilisation de la société, dans laquelle la désinformation délibérée rivalise avec la malveillance raciste, qui vise à intimider tout un peuple et à tromper toute une nation.
 
-Nous sommes témoins que, à la chambre des représentants du peuple, après avoir reçu en grandes pompes les porte parole de cette campagne, on a demandé de “la fermer” aux noirs qui ont usé de leur droit démocratique légitime de présenter leurs demandes.
+Nous sommes témoins que, à la chambre des représentants du peuple, après avoir reçu en grandes pompes les porte-paroles de cette campagne, on a demandé de “la fermer” aux noirs qui ont usé de leur droit démocratique légitime de présenter leurs demandes.
 
 Il est effrayant de penser que législateurs, capables d'une telle agression se prononceront, d'ici quelques mois sur le Statut de l'Égalité Raciale, dont les propositions ouvrent de nouvelles perspectives pour l'amélioration des relations socio-raciales et portent un vent d'espérances pour la population noire méprisée.
 
@@ -63,4 +63,4 @@ Abdias Nascimento
 
 ----------------------
 
-[1] `<http://guyzoducamer.afrikblog.com/archives/2007/11/23/6997534.html>`_
+[1] `<http://www.irohin.org.br/onl/new.php?sec=news&id=2375>`_
