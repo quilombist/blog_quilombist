@@ -1,21 +1,20 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:300);
-@import url(http://fonts.googleapis.com/css?family=Handlee);
+/* @import url(http://fonts.googleapis.com/css?family=Handlee); */
+@import url(http://fonts.googleapis.com/css?family=Patrick+Hand);
+/* @import url(http://fonts.googleapis.com/css?family=Schoolbell); */
 
 body, h1, h2, h3, h4, h5, h6 {
-    font-family: 'Handlee', cursive;
+    font-family: 'Patrick Hand', cursive;
 }
 
 .tagline {
-    font-family: 'Handlee', cursive;
+    font-family: 'Patrick Hand', cursive;
 }
 
-.content{
-    font-family: Handlee, cursive;
+.content, simple{
+    font-family: 'Roboto', sans-serif;
 }
 
-.post-title, post-header>h1 {
-    color: #F93650;
-}
 /* .post, .post:before, .post:after{ */
 /*     background-color: #fff; */
 /*     border: 1px solid #ccc; */
