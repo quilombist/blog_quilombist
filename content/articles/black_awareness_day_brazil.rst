@@ -26,15 +26,15 @@ This year black movement groups in Brazil are lauching a campaign to make Black 
 Who is Zumbi?
 *************
 
-Zumbi is considered one of the greatest black heroes in the history of Brazil. But why Zumbi and not the others? Zumbi was the last leader of the Republic of Palmares, Palmares was the first independent republic in the Americas. In Palmares, africans, europeans and native americas lived in peace and liberty for almost a century. They were about 30000 people, a very large population by the time. At a time when most people in colonial Brazil were either illiterate Portuguese colonisers or enslaved africans.
+Zumbi is considered one of the greatest black heroes in the history of Brazil. But why Zumbi and not the others? Zumbi was the last leader of the Republic of Palmares, Palmares was the first independent republic in the Americas. Zumbi mastery in war gave him the nickname of *immortal negro* by the white colonisers. Besides all the oppression that Africans lived in colonial Brazil, in Palmares: Africans, Europeans and native Americans enjoyed peace and liberty in a true communalist society for almost a century.
 
-Zumbi is today considered the symbol of Black Awareness Day in Brazil.
+Zumbi is today considered the symbol of Black Awareness Day in Brazil. 20 November 1695 is the believed date of Zumbi death by decaptation.
 
 ********
 Palmares
 ********
 
-In early 1595, some of the enslaved Africans in Brazil broke the shackles of slavery and fled to the jungle between the states of Pernambuco and Alagoas. Initially it was a small band of escapees. But this group grew little by little untill it became a community of nearly thirty thousands "rebel" Africans. They established the first government of free Africans in the "New World", insdiputably a true African State, known as the Republic of Palmares.
+In early 1597, some of the enslaved Africans in Brazil broke the shackles of slavery and fled to the jungle between the states of Pernambuco and Alagoas. Initially it was a small band of escapees. But this group grew little by little until it became a community of nearly thirty thousands "rebel" Africans. They established the first government of free Africans in the "New World", insdiputably a true African State, known as the Republic of Palmares.
 
 At more or less the same time it happened that, in Angola, the African Queen N’zingha was valiantly resisting, in armed struggle, the invasion of her territories by the Portuguese.
 
