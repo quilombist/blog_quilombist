@@ -9,10 +9,13 @@ Black Awareness Day in Brazil
 :authors: Marcwebbie
 :summary: Some context about Black Awareness Day in Brazil
 
-.. |Zumbi| image:: http://www.coladaweb.com/files/zumbi.jpg
+.. |Zumbi| image:: {filename}/images/articles/zumbi.jpg
 .. |Dandara| image:: {filename}/images/articles/dandara.jpg
 .. |Mahin| image:: {filename}/images/articles/mahin.jpg
 .. |Candido| image:: {filename}/images/articles/candido.jpg
+
+
+|Zumbi|
 
 
 20 November is Black Awareness Day in Brazil. A day of celebration for the resistence of afro-Brazilians. Today, as always, Brazil white supremacy has strong voice in our education and litterature. Afro-brazilian great symbols are unknown to most Brazilians. Paradoxically, Brazil is the largest black country outside the African continent. A population of about 52% afro-Brazilians and very few, if not none of Brazil's black heroes, are presented to our children. Black Awareness Day fights to break this strategy of making black people considered slave by nature.
@@ -22,8 +25,6 @@ This year black movement groups in Brazil are lauching a campaign to make Black 
 *************
 Who is Zumbi?
 *************
-
-|Zumbi|
 
 Zumbi is considered one of the greatest black heroes in the history of Brazil. But why Zumbi and not the others? Zumbi was the last leader of the Republic of Palmares, Palmares was the first independent republic in the Americas. In Palmares, africans, europeans and native americas lived in peace and liberty for almost a century. They were about 30000 people, a very large population by the time. At a time when most people in colonial Brazil were either illiterate Portuguese colonisers or enslaved africans.
 
