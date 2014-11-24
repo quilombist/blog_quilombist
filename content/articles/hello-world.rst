@@ -11,7 +11,7 @@
 :authors: Marcwebbie
 :summary: Welcome and info on what is this blog about.
 
-.. |Hello| image:: {filename}/images/hello.jpg
+.. |Hello| image:: {filename}/images/articles/hello.jpg
 
 |Hello|
 
