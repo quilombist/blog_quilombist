@@ -40,7 +40,7 @@ OUTPUT_PATH = "./quilombist.github.io"
 
 TYPOGRIFY = True
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'images/articles']
 
 # Theme
 THEME = "./themes/pure-mod"
