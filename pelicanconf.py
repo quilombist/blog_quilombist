@@ -42,6 +42,8 @@ TYPOGRIFY = True
 
 STATIC_PATHS = ['images', 'images/articles']
 
+PLUGINS = ['pelican_youtube']
+
 # Theme
 THEME = "./themes/pure-mod"
 # THEME = "./local_themes/pelican-bootstrap3"
@@ -59,7 +61,7 @@ THEME = "./themes/pure-mod"
 
 
 # Urls
-# ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
-# ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
-# PAGE_URL = 'pages/{slug}/'
-# PAGE_SAVE_AS = 'pages/{slug}/index.html'
+ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
