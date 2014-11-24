@@ -43,7 +43,7 @@ TYPOGRIFY = True
 STATIC_PATHS = ['images']
 
 # Theme
-THEME = "./themes/PureMod"
+THEME = "./themes/pure-mod"
 # THEME = "./local_themes/pelican-bootstrap3"
 # THEME = "./local_themes/SoMa"
 # THEME = "./local_themes/SoMa2"
