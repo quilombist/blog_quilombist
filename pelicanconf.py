@@ -46,19 +46,6 @@ PLUGINS = ['pelican_youtube']
 
 # Theme
 THEME = "./themes/pure-mod"
-# THEME = "./local_themes/pelican-bootstrap3"
-# THEME = "./local_themes/SoMa"
-# THEME = "./local_themes/SoMa2"
-# THEME = "./local_themes/Cahier"
-# THEME = "./local_themes/Just-Read"
-# THEME = "./local_themes/pure-single"
-# THEME = "./local_themes/fresh-mod"
-# THEME = "./local_themes/octopress"
-# THEME = "./local_themes/simplegrey"
-# THEME = "./local_themes/pure"
-# THEME = "./local_themes/cahier"
-# THEME = "./local_themes/foundation"
-
 FAVICON_URL = SITEURL + "/images/favicon.ico"
 
 # Urls
