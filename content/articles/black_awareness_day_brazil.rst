@@ -79,6 +79,7 @@ National holiday
 
 None of those black brazilians that fought for liberty and justice has a holiday in Brazil. Most of them are not even known to Brazilians, and most of those who've heard about them, doesn't even know they were black.
 
+It is unnaceptable that Zumbi or any of those other symbols haven't a national holiday while a white supremacist and slave owner called Tiradentes, a man that fought without success for liberty, have a national holiday with military marches every year on 21th April.
 
 *********************************************************
 What could we do to facilitate black awareness in Brazil?
