@@ -9,13 +9,14 @@ Black Awareness Day in Brazil
 :authors: Marcwebbie
 :summary: Some context about Black Awareness Day in Brazil
 
-.. |Zumbi| image:: {filename}/images/articles/zumbi.jpg
+.. |Palmares| image:: {filename}/images/articles/palmares.jpg
+.. |Zumbi| image:: {filename}/images/articles/zumbi3.jpg
 .. |Dandara| image:: {filename}/images/articles/dandara.jpg
+   :width: 200px
 .. |Mahin| image:: {filename}/images/articles/mahin.jpg
+   :width: 200px
 .. |Candido| image:: {filename}/images/articles/candido.jpg
-
-
-|Zumbi|
+   :width: 200px
 
 
 20 November is Black Awareness Day in Brazil. A day of celebration for the resistence of afro-Brazilians. Today, as always, Brazil white supremacy has strong voice in our education and litterature. Afro-brazilian great symbols are unknown to most Brazilians. Paradoxically, Brazil is the largest black country outside the African continent. A population of about 52% afro-Brazilians and very few, if not none of Brazil's black heroes, are presented to our children. Black Awareness Day fights to break this strategy of making black people considered slave by nature.
@@ -25,6 +26,8 @@ This year black movement groups in Brazil are lauching a campaign to make Black 
 *************
 Who is Zumbi?
 *************
+
+|Zumbi|
 
 Zumbi is considered one of the greatest black heroes in the history of Brazil. But why Zumbi and not the others? Zumbi was the last leader of the Republic of Palmares, Palmares was the first independent republic in the Americas. Zumbi mastery in war gave him the nickname of *immortal negro* by the white colonisers. Besides all the oppression that Africans lived in colonial Brazil, in Palmares: Africans, Europeans and native Americans enjoyed peace and liberty in a true communalist society for almost a century.
 
@@ -51,24 +54,27 @@ Zumbi, the last of Palmares is celebrated in the Pan-African experience of Brazi
 Some major symbols of black resistence fights in Brazil
 *******************************************************
 
-|Dandara|
 
 Dandara
 =======
 
+|Dandara|
+
 She was the Queen of Palmares, commander of Palmares' military. She was the main individual leading the resistance of the unsurpassed new republic and a symbol of audacity and bravery
 
-|Mahin|
 
 Luisa Mahin
 ===========
 
+|Mahin|
+
 She was the leader of the Revolta dos Males(Male Revolt), a black revolt, planned by the islamised slaves in the 19th century.
 
-|Candido|
 
 João Candido
 ============
+
+|Candido|
 
 He was the leader of the Revolta da Chibata(Revolt of the Lashes). Revolta da chibata was a multi-racial revolt against corporal punishment in the Brazilian navy in 22 November 1910.
 
