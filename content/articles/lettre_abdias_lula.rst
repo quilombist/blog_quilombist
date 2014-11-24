@@ -60,7 +60,7 @@ Enfin, je souhaite dire que j'ai la foi aux forces qui veulent transformer mon p
 
 Veuillez, monsieur le Président, accepter nos salutations quilombistes, car le quilombisme est une proposition pour la Nation. Zumbi vit en nous, hommes et femmes de la résistance antiraciste et de la construction d'un Brésil juste et démocratique. Axé!
 
--- Écrit par Abdias Nascimento en 2007
+-- Écrite par Abdias Nascimento en 2007
 
 
 ----------------------
