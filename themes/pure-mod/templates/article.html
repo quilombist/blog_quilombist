@@ -32,6 +32,12 @@
                                 <a class="post-category" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
                             {% endfor %}
                         </p>
+                        {% if ENABLE_SHARE_BUTTONS %}
+                        <div class="share-bar">
+                          {% include 'twitter_button.html' %}
+                          {% include 'gplus_button.html' %}
+                        </div>
+                        {% endif %}
                 </header>
             </section>
             {{ article.content }}
