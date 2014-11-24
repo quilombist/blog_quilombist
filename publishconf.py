@@ -23,3 +23,5 @@ OUTPUT_RETENTION = (".git", ".gitignore", "README.org")
 
 DISQUS_SITENAME = "quilombist"
 GOOGLE_ANALYTICS = "UA-57075705-1"
+
+ENABLE_SHARE_BUTTONS = True
