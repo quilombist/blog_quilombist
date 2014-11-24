@@ -59,6 +59,7 @@ THEME = "./themes/pure-mod"
 # THEME = "./local_themes/cahier"
 # THEME = "./local_themes/foundation"
 
+FAVICON_URL = SITEURL + "/images/favicon.ico"
 
 # Urls
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
