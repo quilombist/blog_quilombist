@@ -2,7 +2,7 @@
 
 Live blog. http://quilombist.github.io/
 
-** Workflor for writing posts
+** Workflow for writing posts
 
 #+BEGIN_SRC shell
 # Creating new .rst post file
