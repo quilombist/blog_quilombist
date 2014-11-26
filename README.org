@@ -2,6 +2,25 @@
 
 Live blog. http://quilombist.github.io/
 
+** Workflor for writting posts
+
+#+BEGIN_SRC shell
+# Creating new .rst post file
+./scripts/posts new --title='POSTTITLE'
+
+# Writing post content
+emacs /path/to/post/file
+
+# Checking content locally
+make html && make serve
+
+# Commit and pushing content to
+git add . && git push origin master
+
+# Deploying content to github pages
+make deploy
+#+END_SRC
+
 ** License MIT
 
 Copyright © 2014 Marcwebbie, http://github.com/marcwebbie
