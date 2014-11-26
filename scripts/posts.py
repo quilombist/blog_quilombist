@@ -1,0 +1,66 @@
+#!/usr/bin/env python3
+
+import argparse
+from datetime import datetime
+import os
+
+from jinja2 import Template
+from slugify import slugify
+
+parser = argparse.ArgumentParser()
+parser.add_argument("task")
+parser.add_argument("--title", help="title of new post")
+parser.add_argument("--tags", default="<TAGS>", help="new post tags")
+parser.add_argument("--category", default="<CATEGORY>", help="category of new post")
+parser.add_argument("--content-dir", default="content/posts", help="content directory")
+args = parser.parse_args()
+
+NEW_POST_TEMPLATE = """{{ title_adornment }}
+{{ title }}
+{{ title_adornment }}
+
+:date: {{ date }}
+:tags: {{ tags }}
+:category: {{ category }}
+:slug: {{ slug }}
+:authors: <AUTHORS>
+:summary: <SUMMARY>
+"""
+
+def new():
+    template = Template(NEW_POST_TEMPLATE)
+    title = args.title.title()
+    title_adornment = "#" * len(title)
+    date = datetime.today()
+    str_date = datetime.strftime(date, "%Y-%m-%d %H:%M")
+    tags = args.tags
+    category = args.category
+    slug = slugify(title, to_lower=True)
+
+    content_dir = args.content_dir
+    post_dir = "{}/{}/{}/{}".format(content_dir, date.year, date.month, date.day)
+    filename = "{}.rst".format(slug)
+    filepath = os.path.join(post_dir, filename)
+
+    rendered_template = template.render(
+        title=title,
+        title_adornment=title_adornment,
+        date=str_date,
+        tags=tags,
+        category=category,
+        slug=slug
+    )
+
+    if os.path.exists(filepath):
+        print("ERROR: Post '{}' already exists")
+        return 1
+
+    if not os.path.exists(post_dir):
+        os.makedirs(post_dir)
+        print("Created directory: {}".format(post_dir))
+    with open(os.path.join(post_dir, filename), "w") as f:
+        f.write(rendered_template)
+        print("Created post at: {}/{}".format(post_dir, filename))
+
+if __name__ == "__main__":
+    locals()[args.task]()
