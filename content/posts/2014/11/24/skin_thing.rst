@@ -4,7 +4,7 @@ Skin Thing lyrics
 
 :title: Skin Thing
 :date: 2014-11-24 16:20
-:tags: brazil, poem
+:tags: Brazil, poem, music, lyrics, samba
 :category: culture
 :authors: Marcwebbie
 :summary: Translation of song/poem Skin Thing (Coisas de Pele) by pan-Africanist composer/singer/musician/poet Jorge Aragão
