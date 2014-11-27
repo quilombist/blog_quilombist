@@ -21,6 +21,13 @@ git add . && git push origin master
 make deploy
 #+END_SRC
 
+** Tools
+
++ emacs
++ python3
++ pelican
++ Github Pages
+
 ** License MIT
 
 Copyright © 2014 Marcwebbie, http://github.com/marcwebbie
