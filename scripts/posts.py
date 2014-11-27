@@ -19,12 +19,19 @@ NEW_POST_TEMPLATE = """{{ title_adornment }}
 {{ title }}
 {{ title_adornment }}
 
+:title: {{ title }}
 :date: {{ date }}
 :tags: {{ tags }}
 :category: {{ category }}
 :slug: {{ slug }}
 :authors: <AUTHORS>
 :summary: <SUMMARY>
+
+
+
+---------------------
+
+**<SOURCES>**
 """
 
 def new():
