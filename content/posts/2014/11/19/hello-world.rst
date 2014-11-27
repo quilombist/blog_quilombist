@@ -6,7 +6,7 @@
 :date: 2014-11-19 10:02
 :modified: 2014-11-24 12:40
 :tags: helloworld, welcome
-:category: miscelaneous
+:category: miscellaneous
 :slug: hello-world
 :authors: Marcwebbie
 :summary: Welcome and info on what is this blog about.
@@ -15,7 +15,7 @@
 
 |Hello|
 
-This blog is about tecnology and pan-Africanism. Even better this blog is about Quilombism. In this blog, There will be posts in the three most used languages in the pan-African world: English, French and Portuguese.
+This blog is about technology and pan-Africanism. Even better this blog is about Quilombism. In this blog, There will be posts in the three most used languages in the pan-African world: English, French and Portuguese.
 
 ******
 Topics
