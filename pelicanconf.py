@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Marcwebbie'
 SITENAME = u'Quilombist'
-SITEURL = '//localhost:8000'
+SITEURL = 'http://localhost:8000'
 SITESUBTITLE = 'Technology and pan-africanism together'
 TAGLINE = SITESUBTITLE
 
