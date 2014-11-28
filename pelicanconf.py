@@ -56,3 +56,6 @@ PAGE_SAVE_AS = 'pages/{slug}/index.html'
 ENABLE_SHARE_BUTTONS = False
 
 SLUGIFY_SOURCE = 'title'
+
+# Defaults
+DEFAULT_CATEGORY = 'misc'
