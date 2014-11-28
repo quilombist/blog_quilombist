@@ -59,3 +59,6 @@ SLUGIFY_SOURCE = 'title'
 
 # Defaults
 DEFAULT_CATEGORY = 'misc'
+# FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2}).*'
+
+IGNORE_FILES = ['.#*']
