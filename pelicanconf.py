@@ -47,6 +47,7 @@ PLUGINS = ['pelican_youtube']
 # Theme
 THEME = "./themes/pure-mod"
 FAVICON_URL = SITEURL + "/images/favicon.ico"
+COVER_IMG_URL = SITEURL + "/images/cover.jpg"
 
 # Urls
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
