@@ -24,8 +24,8 @@ NEW_POST_TEMPLATE = """{{ title_adornment }}
 :tags: {{ tags }}
 :category: {{ category }}
 :slug: {{ slug }}
-:authors: <AUTHORS>
 :summary: <SUMMARY>
+:status: draft
 
 
 
