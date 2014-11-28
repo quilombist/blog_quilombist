@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:300);
+/* @import url(http://fonts.googleapis.com/css?family=Handlee); */
+/* @import url(http://fonts.googleapis.com/css?family=Neucha); */
+/* @import url(http://fonts.googleapis.com/css?family=Patrick+Hand); */
+/* @import url(http://fonts.googleapis.com/css?family=Schoolbell); */
+/* @import url(http://fonts.googleapis.com/css?family=Oswald); */
+/* @import url(http://fonts.googleapis.com/css?family=Aclonica); */
+@import url(http://fonts.googleapis.com/css?family=Delius);
+@import url(http://fonts.googleapis.com/css?family=Molengo);
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Molengo', sans-serif;
+}
+
+.tagline {
+    font-family: 'Molengo', sans-serif;
+}
+
+.content, simple {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* .post, .post:before, .post:after{ */
+/*     background-color: #fff; */
+/*     border: 1px solid #ccc; */
+/*     /\* box-shadow: inset 0 0 30px rgba(0,0,0,0.3), 1px 1px 3px rgba(0,0,0,0.9); *\/ */
+/* } */
+/* .post{ */
+/*     position: relative; */
+/*     width: 100%; */
+/*     padding: 1% 2%; */
+/*     margin: 35px auto; */
+/* } */
+/* .post h1{ */
+/*     font-size: 1.8em; */
+/*     font-weight: normal; */
+/*     padding: 0.4em 0; */
+/*     margin: 0; */
+/*     /\* border-bottom: 2px solid #ddd; *\/ */
+/* } */
