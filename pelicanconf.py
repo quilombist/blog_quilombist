@@ -34,7 +34,7 @@ SOCIAL = (('twitter', 'https://twitter.com/marcwebbie'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 OUTPUT_PATH = "./quilombist.github.io"
 
@@ -56,3 +56,5 @@ PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 ENABLE_SHARE_BUTTONS = False
+
+SLUGIFY_SOURCE = 'title'
