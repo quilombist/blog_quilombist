@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Marcwebbie'
-SITENAME = u'Quilombist'
+AUTHOR = 'Marcwebbie'
+SITENAME = 'Quilombist'
 SITEURL = 'http://localhost:8000'
 SITESUBTITLE = 'Technology and pan-africanism together'
 TAGLINE = SITESUBTITLE
@@ -12,7 +12,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -21,15 +21,13 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
-# Social widget
-SOCIAL = (('twitter', 'https://twitter.com/marcwebbie'),
-          ('github', '//github.com/marcwebbie'),)
+SOCIAL = (('twitter-square', '//twitter.com/marcwebbie'),
+          ('github-square', '//github.com/marcwebbie'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -49,7 +47,7 @@ THEME = "./themes/pure-mod"
 FAVICON_URL = SITEURL + "/images/favicon.ico"
 COVER_IMG_URL = SITEURL + "/images/cover.jpg"
 
-# Urls
+# URLs
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}/'
