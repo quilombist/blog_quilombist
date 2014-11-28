@@ -26,8 +26,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
-SOCIAL = (('twitter-square', '//twitter.com/marcwebbie'),
-          ('github-square', '//github.com/marcwebbie'),)
+SOCIAL = (('twitter', '//twitter.com/marcwebbie'),
+          ('github', '//github.com/marcwebbie'),)
 
 DEFAULT_PAGINATION = 10
 
