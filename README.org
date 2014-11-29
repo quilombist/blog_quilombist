@@ -2,6 +2,22 @@
 
 Live blog. http://quilombist.github.io/
 
+** Quick start
+
+#+BEGIN_SRC shell
+# Clone blog source
+git clone https://github.com/quilombist/blog_quilombist.git
+cd blog_quilombist
+
+# Install requirements
+pip install --user -r requirements.txt
+
+# Generate content and serve locally
+make html && make serve
+#+END_SRC
+
+Go to [[http://localhost:8000]]
+
 ** Workflow for writing posts
 
 #+BEGIN_SRC shell
@@ -21,12 +37,10 @@ git add . && git push origin master
 make deploy
 #+END_SRC
 
-** Tools
+** Requirements
 
-+ emacs
-+ python3
-+ pelican
-+ Github Pages
++ [[http://python.org/downloads][Python3]]
++ [[http://docs.getpelican.org][Pelican]]
 
 ** License MIT
 
