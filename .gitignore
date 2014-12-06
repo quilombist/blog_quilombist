@@ -5,3 +5,4 @@
 *.pyc
 /cache/
 /local_themes/
+/env/
